@@ -24,9 +24,9 @@ header {
 }
 
 }
-header img.zzz {
-    width: 50%; /* Ukuran lebar gambar */
-    height: 50%; /* Ukuran tinggi gambar */
+header zzz.zzz {
+    width: 150px; /* Ukuran lebar gambar */
+    height: 150px; /* Ukuran tinggi gambar */
     border-radius: 50%; /* Membuat gambar berbentuk lingkaran */
     object-fit: cover; /* Menjaga proporsi gambar dalam lingkaran */
     display: block;
